@@ -19,22 +19,14 @@ output:
 Figures
 ======================================================================
 
-
-Column {data-width=150}
+Column {data-width=4}
 -----------------------------------------------------------------------
 ### High phenolics diet 
 
 Phenolic compounds are well known for their bioactivities and their health
 outcome. in this study we fed obese and lean mice a control and a purple potato (PM) diet. after 11 weeks of diet, the liver metabolites were analyzed by using LC/MS. 
-Here you see top 25 metabolites with high VIP score that are driving the seperation 
+Here you see top 25 metabolites with high VIP score that are driving the separation 
 of Test
-
-
-Column {data-width=150}
------------------------------------------------------------------------
-### Metaboloites in the liver of obese animal with phenolics diet
-
-These graphs are representing a 
 
 
 ```{r setup, include=FALSE}
@@ -57,8 +49,6 @@ library(readr)
 
 ```
 
-Column {data-width=425}
------------------------------------------------------------------------
 
 ### Metabolites with higher concentration in liver
 
@@ -81,11 +71,7 @@ ggplotly(vip_liverOB, tooltip = "text")
 ```
 
 
-Column {data-width=425}
------------------------------------------------------------------------
 ### immune cell 
-
-
 
 ```{r}
 immunecell <- read.csv("ObeseImmune.csv")
@@ -93,30 +79,36 @@ immunecell <- read.csv("ObeseImmune.csv")
 # adding column name to the first and second column 
 colnames(immunecell)[1:2] <- c("Genotype", "Diet")
 
+# selecting for two columns
+immunecell <- select(immunecell, c(Genotype, Diet, ICAM.1,P.selectin))
+
 # making the data longer
 immunecell <- immunecell %>% 
-  pivot_longer (cols= (MCP.1:P.selectin),
+  pivot_longer (cols= (ICAM.1:P.selectin),
                             names_to = "immune_cell", 
-                            values_to = "Aboundance")
+                            values_to = "Aboundance") 
+immunecell <-immunecell  %>% 
+  mutate(Genotype = as.factor(Genotype),
+         Diet = as.factor(Diet))
 
+mmunecell_plot <- immunecell %>% 
+  group_by(Diet) %>% 
+  group_by(Genotype) %>% 
+  ggplot(aes(x = immune_cell, y = Aboundance, fill = Genotype, color = Diet)) +
+  geom_bar(stat = "identity", alpha = 0.9) +
+  labs(x = "Immune Cell", y = "Abundance") + 
+  scale_fill_viridis_d() +
+  dark_theme_bw()
 
+ggplotly(mmunecell_plot)
 
-immunecell_plot <- immunecell %>% 
-  #mutate(Region = Region %>% fct_infreq()) %>% 
-  ggplot(aes(x = VEGF)) +
-  geom_bar(aes(fill = Type), alpha = 0.9) +
-  dark_theme_gray(base_family = "Fira Sans Condensed Light", base_size = 14) +
-  theme(axis.text.x = element_text(face = "bold", angle = 60, hjust = 1)) +
-  labs(x = element_blank(), y = "Number of Volcanoes", fill = "Volcano Type") + 
-  scale_fill_viridis_d() 
 ```
-
 
 
 High Phenolics diet 
 ======================================================================  
 
-Column {data-width=300} 
+Column {data-width=4} 
 -----------------------------------------------------------------------
 These data have been collected as a part of pre-clinical study on 
 high phenolics diet and their effect on cardiometabolic health. 
