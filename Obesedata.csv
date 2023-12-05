@@ -1,0 +1,1023 @@
+﻿Primary ID,﻿,Metabolite,Super Class,Class,Sub_Class,VIP 1,VIP 2
+LivPos_C1024,888,N-hexanoyldihydroceramide,Lipids and lipid-like molecules,Sphingolipids,Ceramides,2.45617,0.887963
+LivNeg_C177,1013,PG(34:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,2.4503,0.923554
+LivNeg_C709,465,PG(36:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,2.44235,0.577273
+LivNeg_C660,268,LysoPE(18:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.4418,0.529123
+LivPos_C1220,333,Behenoylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",2.43664,0.667417
+LivPos_C0592,515,PC(36:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.43475,0.3953
+LivGC_C031,48,Myo-Inositol,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,2.4248,0.753155
+LivPos_C0853,279,PE(25:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.42148,1.12741
+LivPos_C0261,1030,PE(42:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.40789,0.705273
+LivPos_C0860,284,N-2-hydroxystearoylsphingosine,Organic nitrogen compounds,Organonitrogen compounds,Amines,2.37757,0.722537
+LivPos_C0469,1192,PE(27:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.37317,0.969273
+LivPos_C0675,52,PC(38:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.354,0.679806
+LivNeg_C739,1115,PS(37:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.34322,0.553241
+LivPos_C0687,180,PS(38:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.34076,1.08373
+LivPos_C0969,1064,PS(40:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.32743,0.573928
+LivPos_C1845,1015,LysoPE(16:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.30571,0.898412
+LivNeg_C748,395,Helilupolone,Benzenoids,Benzene and substituted derivatives,Flavonoid,2.26781,0.836682
+LivPos_C1167,499,Erythrosine,Organoheterocyclic compounds,Benzopyrans,1-benzopyrans,2.26092,1.00244
+LivPos_C0808,536,PE(40:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.24625,0.703839
+LivPos_C1219,301,Heptadecanoyl carnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,2.23895,0.886158
+LivPos_C1143,533,PE(40:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.22957,0.850866
+LivNeg_C450,458,Cholesterol sulfate,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,2.22422,1.48645
+LivNeg_C159,449,PS(40:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.21084,1.04806
+LivNeg_C052,154,PC(40:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.18491,1.05994
+LivPos_C0809,997,PS(38:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.17217,0.75159
+LivNeg_C363,788,PS(43:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.16437,1.10322
+LivPos_C0381,65,PC(18:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.16355,0.403407
+LivPos_C0458,8,PE(42:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.14302,1.01746
+LivNeg_C132,320,PS(38:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.13212,1.27804
+LivPos_C0220,594,PS(38:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.13085,1.24235
+LivPos_C0366,1260,PE-Cer(40:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,2.1276,1.063
+LivPos_C1134,600,PS(37:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.08615,1.0183
+LivNeg_C518,263,Arachidonic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,2.0841,1.17663
+LivPos_C1580,1215,PC(38:9),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.06492,0.818156
+LivPos_C0951,637,PG(37:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,2.03603,1.02831
+LivNeg_C482,401,Ins-1-P-Cer(36:0),Lipids and lipid-like molecules,Sphingolipids,Ceramides,2.03442,0.790677
+LivNeg_C221,645,PG(36:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,2.02926,0.762153
+LivNeg_C465,1159,Vinblastine,Alkaloids and derivatives,Vinca alkaloids,NA,2.02064,1.29843
+LivNeg_C737,1145,PC(42:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.01825,1.06634
+LivNeg_C247,1210,PS(35:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,2.00442,1.16254
+LivPos_C0330,906,GalCer(40:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,2.00435,1.12173
+LivPos_C0121,193,carnitine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,2.00287,1.46705
+LivNeg_C129,141,PC(38:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,2.00005,1.3205
+LivGC_C081,125,Uric acid _1,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,1.99847,1.16794
+LivNeg_C806,351,"9,10-dihydroxyoctadecanoate",Lipids and lipid-like molecules,Fatty Acyls,atty acids and conjugates,1.98044,1.57294
+LivPos_C0287,321,PI(40:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.97951,0.984051
+LivNeg_C025,704,PC(38:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.95879,1.3602
+LivPos_C1189,641,CL(78:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,1.95262,0.592574
+LivPos_C0224,954,Glucosylceramide (34:1)_1,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.94291,1.10493
+LivPos_C0600,1264,Retinal__3,Lipids and lipid-like molecules,Prenol lipids,Retinoids,1.93092,0.927552
+LivPos_C0242,241,Hexadecanedioic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.9296,1.05469
+LivPos_C0066,217,Ubiquinol_3,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,1.92548,1.23108
+LivNeg_C303,1217,PC(38:5)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.9224,1.37922
+LivPos_C1043,666,"p-Mentha-1,3,8-triene",Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,1.91665,1.00156
+LivPos_C0563,105,PC(42:9)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.91254,1.33639
+LivPos_C0202,693,Trihydroxycholestanoic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.90662,0.856289
+LivPos_C0385,1080,SM(42:2),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,1.90096,1.0416
+LivNeg_C472,372,PC(32:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.89448,1.15621
+LivNeg_C714,523,FAHFA(34:1),Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.89059,1.2905
+LivPos_C1334,490,prostaglandin_5,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,1.89033,1.53655
+LivPos_C1811,550,N-docosanoyl taurine,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,1.8864,1.41738
+LivNeg_C126,209,PI(38:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.86867,1.47532
+LivPos_C0205,827,PC(44:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.86523,1.45864
+LivNeg_C575,1069,FAHFA(32:0),Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.86412,1.10461
+LivPos_C1198,593,Oleoyl-L-carnitine,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,1.85938,1.09727
+LivNeg_C092,216,palmitoyl-Cer(34:1)_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,1.85357,1.35814
+LivPos_C1849,980,Tomatidine,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal alkaloids,1.84123,1.31923
+LivPos_C1348,1209,PC(40:10),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.83856,1.23133
+LivPos_C0979,1258,PS(40:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.83806,1.23916
+LivNeg_C054,1017,PS(43:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.83619,1.34446
+LivNeg_C331,837,sn-glycero-3-phosphoserine_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.83236,1.52078
+LivPos_C1812,387,Gallamine,Organic compounds,Benzenoids,Phenol ethers,1.81854,1.22843
+LivPos_C0917,630,N-octacosanoyl-15-methylhexadecasphing-4-enine-1-phosphocholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,1.81512,1.43737
+LivPos_C0868,304,D-galactosyl-N-tetracosanoylsphinganine_1,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.81364,0.830541
+LivPos_C1245,735,DG(40:3)_1,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.80586,1.29619
+LivGC_C044,647,Glycerophosphoglycerol,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,1.79892,1.40283
+LivNeg_C443,685,PS(44:7)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.79074,1.47142
+LivPos_C0241,1193,PE(38:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.78982,1.52115
+LivNeg_C110,1183,PC(35:3),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.7709,1.63558
+LivNeg_C055,350,PS(41:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.76181,1.40211
+LivPos_C0726,438,Dimethyl-7-ethylazulene,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,1.76068,1.32822
+LivGC_C018,71,Taurine,Organic acids and derivatives,Organic sulfonic acids and derivatives,rganosulfonic acids and derivatives,1.75521,0.799603
+LivPos_C1572,138,Glycero-3-phosphoserine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.75086,1.30864
+LivNeg_C044,1135,Docosahexaenoic acid_6,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.75052,1.5067
+LivPos_C0081,143,Cholic acid_2,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.74952,1.10919
+LivGC_C149,684,Hydrogen sulfide,Homogeneous non-metal compounds,Other non-metal organides,Other non-metal sulfides,1.74215,1.05739
+LivPos_C0705,1113,PC(36:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.73683,1.61568
+LivPos_C1241,259,Methacholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,1.73267,0.989606
+LivPos_C0333,634,"L-Proline, 4-cyclohexyl-, (4S)-",Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.71442,0.983392
+LivPos_C0164,317,Trihydroxy-5b-cholanoic acid_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.71199,1.12097
+LivNeg_C499,1212,Octadecenoyl-glycero-phospho-glycerol_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.71182,1.54688
+LivNeg_C063,748,PE(38:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.70601,1.51169
+LivPos_C0993,79,PE(44:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.69936,1.32116
+LivNeg_C352,1035,PI(40:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.69929,1.20671
+LivPos_C0364,1201,PS(38:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.69672,0.970599
+LivPos_C0113,625,deoxycholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.69176,1.20407
+LivNeg_C196,34,Cucurbitacin F,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cucurbitacins,1.68731,1.54351
+LivPos_C0244,953,PC(36:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.67141,1.18021
+LivPos_C1187,558,PS(42:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.666,0.693332
+LivNeg_C638,771,Oleic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.66508,1.48163
+LivGC_C459,588,Allantoin,Organoheterocyclic compounds,Azoles,Imidazoles,1.65634,1.47502
+LivPos_C0422,1079,Alpha-Linoleoylcholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,1.65543,1.44276
+LivPos_C0918,91,Dipalmitin_1,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.65513,0.968469
+LivPos_C0483,628,9-cis-Retinoic acid,Lipids and lipid-like molecules,Prenol lipids,Retinoids,1.6505,1.20604
+LivPos_C0638,73,GlcCer(41:2)_1,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.65032,1.42823
+LivPos_C0525,1166,Tetracosanoic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.64849,0.733903
+LivNeg_C227,2,PI(36:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.63973,1.55528
+LivNeg_C699,983,PG(36:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.63276,1.31122
+LivPos_C0609,270,GlcCer(40:1)_1,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.62645,1.24148
+LivNeg_C176,366,PG(40:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.62576,1.59405
+LivNeg_C731,1228,Antibiotic KA 7038I;Istamycin A;Sannamycin A,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,1.62429,0.827165
+LivPos_C0442,450,SM(36:2),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,1.61339,1.02386
+LivNeg_C657,1097,Tetrahydroxy cholanoic acid_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.59209,1.28503
+LivNeg_C704,503,PG(38:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.58664,1.35197
+LivPos_C0128,445,alpha-tocopherol,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,1.58474,1.51152
+LivPos_C0097,548,N-Arachidonyldopamine,Benzenoids,Phenols,Benzenediols,1.58,1.32615
+LivNeg_C166,407,Eicosatrienoic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.57531,1.62358
+LivNeg_C252,341,Docosahexaenoic acid_7,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.57178,1.4842
+LivPos_C1585,877,Diamino-4-hydroxy-5-N-methylformamidopyrimidine_1,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,1.56817,1.41678
+LivNeg_C662,137,Dihydroxy-3-oxo-4-cholenoic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.55576,1.3046
+LivNeg_C388,1102,PC(42:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.55331,1.1475
+LivNeg_C442,413,PI(38:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.5508,1.37479
+LivNeg_C128,342,PA(40:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,1.54961,1.73589
+LivNeg_C065,1107,PC(34:2)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.54885,1.65573
+LivPos_C0441,1221,PE(34:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.54294,1.47423
+LivPos_C0077,912,CE(18:2),CE(16:1(9Z)),Lipids and lipid-like molecules,Steroids and steroid derivatives,1.5417,1.73532
+LivPos_C0787,526,Gamma-glutamyl-Glutamine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.53992,1.52272
+LivNeg_C444,597,PG(36:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.53266,1.21811
+LivNeg_C803,163,LysoPE(20:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.52168,1.71109
+LivPos_C0587,220,"3'-Hydroxy-5,6,7,4'-tetramethoxyflavone",Phenylpropanoids and polyketides,Flavonoids,O-methylated flavonoids,1.52149,1.50388
+LivPos_C0980,1207,PC(40:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.51635,1.59711
+LivNeg_C822,613,PC(15:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.51041,1.58447
+LivNeg_C062,903,Glucosylceramide,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.5084,1.64153
+LivNeg_C308,370,PC(44:12)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.50689,1.645
+LivNeg_C370,84,Eicosadienoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.5051,1.43023
+LivNeg_C548,200,PS(44:7)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.50007,0.909014
+LivPos_C1095,85,palmitoyl-Cer(34:1)_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,1.49134,1.851
+LivPos_C1088,1007,PC(42:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.48266,1.53967
+LivPos_C1142,890,PE(36:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.48259,1.74917
+LivNeg_C809,774,PG(16:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.48148,0.824773
+LivNeg_C556,940,N-hexacosanoyl-4-hydroxy-15-methylhexadecasphinganine,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,1.48058,1.91731
+LivNeg_C238,547,PS(39:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.47907,1.2812
+LivPos_C1458,1152,Cer(36:0),Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.47901,1.59181
+LivNeg_C367,3,PE(38:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.47615,1.08334
+LivNeg_C282,1202,PS(44:7)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.47503,1.21744
+LivPos_C0363,786,"Dinorergosta-5,22-dien-3-ol",Lipids and lipid-like molecules,Steroids and steroid derivatives,Hydroxysteroids,1.47385,1.8963
+LivNeg_C434,302,PI(38:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.46983,1.56104
+LivNeg_C008,517,acetylenedicarboxylate_1,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,1.46778,1.51679
+LivNeg_C437,669,PG(40:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.46497,1.77473
+LivNeg_C043,352,Glucosylceramide (34:1)_2,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.46226,1.8171
+LivPos_C0565,612,CL(80:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,1.45892,1.61376
+LivPos_C0549,1199,PS(36:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.45351,1.52211
+LivGC_C001,609,Maltose_1,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,1.44267,1.29345
+LivPos_C0229,781,CL(78:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,1.44189,1.58888
+LivNeg_C291,1005,PC(38:6)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.44015,1.37781
+LivNeg_C373,662,Eicosenoic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.4376,2.03531
+LivPos_C0365,943,PE(44:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.43116,1.58845
+LivNeg_C651,673,"3a,7a,12a,19-Tetrahydroxy-5b-cholanoic acid_1",Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.42485,1.31849
+LivPos_C0748,743,PG(41:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.42433,1.04346
+LivPos_C0372,133,PC(40:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.42275,0.718074
+LivPos_C0071,343,Cholic acid_3,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.40797,1.16755
+LivNeg_C691,626,PS(39:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.40589,1.79431
+LivPos_C1225,663,PC(36:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.40238,1.94053
+LivNeg_C297,469,Stearic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.39759,1.63193
+LivPos_C0455,945,PC(40:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.39637,1.09082
+LivPos_C0529,315,GlcCer(42:1)_1,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.39515,1.43498
+LivPos_C0090,1144,PC(42:4),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.39117,0.820328
+LivPos_C0390,118,Vitamin A,Lipids and lipid-like molecules,Prenol lipids,Retinoids,1.38837,1.33985
+LivNeg_C064,106,PS(40:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.38761,1.44087
+LivPos_C0461,1057,PS(37:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.38589,1.6851
+LivPos_C1383,677,PC(42:11)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.37977,0.948826
+LivPos_C0839,1227,"3-Decaprenyl-4,5-dihydroxybenzoate",Lipids and lipid-like molecules,Prenol lipids,Polyprenylphenols,1.37327,1.06503
+LivNeg_C705,456,PG(34:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.3719,1.21089
+LivPos_C0992,57,DG(43:4),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.3675,2.04801
+LivNeg_C114,866,CDP-DG(40:0),Lipids and lipid-like molecules,Glycerophospholipids,CDP-glycerols,1.35915,1.81435
+LivPos_C1223,108,PS(42:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.35077,1.20631
+LivPos_C0323,1049,PE(42:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.34723,1.80182
+LivPos_C1265,1233,Alkyl-2-acylglycerol,Lipids and lipid-like molecules,Glycerolipids,Monoradylglycerols,1.34712,2.03039
+LivGC_C002,339,Maltose_2,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,1.34669,1.20479
+LivNeg_C462,909,PE(38:4)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.33659,1.77007
+LivPos_C0026,253,chenodeoxycholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.3324,1.89598
+LivPos_C0608,791,SM(41:1),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,1.32887,1.01593
+LivNeg_C251,475,Adrenic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.32831,1.11451
+LivNeg_C801,460,DiHDPA,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.32404,1.65459
+LivNeg_C085,45,Naphthomycinol,Phenylpropanoids and polyketides,Macrolactams,,1.32202,2.04675
+LivNeg_C723,883,PE(40:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.3212,1.57179
+LivNeg_C396,110,Palmitic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.31894,1.49151
+LivNeg_C698,1047,PG(32:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.31218,1.6059
+LivPos_C0398,930,PE(38:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.31095,1.59379
+LivNeg_C300,303,"3-nonaprenyl-4,5-dihydroxybenzoic acid",Lipids and lipid-like molecules,Prenol lipids,Polyprenylphenols,1.2851,1.49255
+LivNeg_C030,408,PI(36:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.28354,1.41228
+LivNeg_C353,1087,Cyanopeptolin D,Organic acids and derivatives,Peptidomimetics,Depsipeptides,1.28351,1.27909
+LivNeg_C281,643,PG(36:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.28025,1.28146
+LivNeg_C018,1259,LysoPC(18:1)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.27709,1.12471
+LivPos_C0421,582,C17 sphingosine,Organic nitrogen compounds,Organonitrogen compounds,Amines,1.27416,1.75648
+LivNeg_C231,479,PS(38:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.273,1.61145
+LivPos_C0087,227,Corchoionol C 9-glucoside,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,1.26901,1.68456
+LivPos_C0001,835,PE(42:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.26687,1.43268
+LivNeg_C168,516,Linoleic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,1.26651,1.39597
+LivNeg_C656,1181,N-Undecanoylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.26622,1.57035
+LivPos_C0490,957,Erucic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.26399,1.55849
+LivNeg_C457,690,possible steroidal saponin,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,1.25745,1.91149
+LivPos_C0353,863,Ubiquinol_4,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,1.25699,1.11862
+LivNeg_C179,367,PG(36:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.25304,1.65811
+LivNeg_C328,873,Benzyl beta-primeveroside,Organic oxygen compounds,Organooxygen compounds,arbohydrates and carbohydrate conjugates,1.24865,1.81183
+LivNeg_C036,553,PS(19:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.24466,0.828421
+LivPos_C0595,931,PC(38:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.24361,1.62777
+LivNeg_C061,250,"3a,7a,12a,19-Tetrahydroxy-5b-cholanoic acid_2",Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.24195,1.63926
+LivPos_C0528,546,L-Kynurenine,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,1.24036,1.33728
+LivPos_C0246,226,GlcCer(41:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.2386,1.95056
+LivNeg_C356,658,N-tricosanoyl-D-galactosylsphingosine,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.23652,1.60587
+LivNeg_C791,54,LysoPE(20:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.22887,1.61493
+LivPos_C0068,993,Hexacosanoylamino-dihydroxynonadecyl-galactitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,1.22238,1.74829
+LivPos_C1047,1222,N-Tetracosenoyl-4-sphingenine_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.22197,1.5033
+LivPos_C1791,311,SM(38:1),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,1.21802,1.48045
+LivNeg_C002,1274,LysoPC(18:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.21671,2.03845
+LivPos_C1236,719,Phthioceranic acid (C43),Lipids and lipid-like molecules,Prenol lipids,Sesterterpenoids,1.21461,1.61228
+LivPos_C0821,765,Palmitoyl-docosahexaenoyl-sn-glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.21033,1.55289
+LivPos_C0500,11,PI(36:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.20203,1.61585
+LivPos_C1846,1218,isovaleryl diethylamide,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,1.20095,1.86079
+LivNeg_C710,357,PG(38:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.19488,2.02451
+LivNeg_C142,1027,retaspimycin hydrochloride,Phenylpropanoids and polyketides,Macrolactams,NA,1.19289,1.70112
+LivGC_C050,47,Glycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.19157,1.91951
+LivPos_C0108,461,PE(42:7)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.18361,0.876354
+LivPos_C0894,116,Cer(42:2)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.18219,1.62903
+LivPos_C0879,589,PE(38:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.18155,1.70364
+LivNeg_C711,1196,3-O-Sulfogalactosylceramide (42:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,1.1801,1.68166
+LivGC_C011,591,Glycerol-3-phosphate_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,1.17745,1.04373
+LivGC_C057,291,Mannitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,1.17693,2.06416
+LivNeg_C368,1255,Undecaprenyl phosphate,Lipids and lipid-like molecules,Prenol lipids,Polyprenols,1.17596,1.29337
+LivGC_C087,231,Indoleacetic acid,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,1.17273,1.25041
+LivPos_C1773,1148,PC(40:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.16979,1.81848
+LivNeg_C753,880,acetylenedicarboxylate_2,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,1.16475,1.51139
+LivNeg_C823,222,Cytonic acid B,Phenylpropanoids and polyketides,Depsides and depsidones,NA,1.15851,1.65273
+LivNeg_C191,1134,Oleic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.15078,1.62961
+LivPos_C0240,710,7-Hydroxychromanone,Phenylpropanoids and polyketides,"3,4-dihydrocoumarins",NA,1.15039,1.54827
+LivNeg_C207,1267,PS(40:6)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.14434,1.02113
+LivPos_C0005,682,alpha linolenic acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,1.14283,1.20649
+LivPos_C1233,27,Cholesteryl ester_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,1.1359,1.5629
+LivPos_C0436,396,"Rescinnamidine;2',3'-Dihydrorescinnamine__1",Alkaloids and derivatives,Yohimbine alkaloids,NA,1.13487,1.62413
+LivPos_C0259,950,Cer(36:1)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.13359,1.40704
+LivGC_C060,403,Ornithine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.13095,1.9092
+LivNeg_C380,734,PE(40:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.12925,1.26593
+LivNeg_C009,995,LysoPC(16:0)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.12618,1.79594
+LivPos_C0022,1247,prostaglandin_2,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,1.12486,1.61195
+LivNeg_C539,898,PI(38:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.12387,1.43057
+LivPos_C0231,801,PC(36:4)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.12211,0.919783
+LivPos_C1038,721,DG(40:1),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.12171,1.55762
+LivNeg_C306,606,PS(38:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.12123,1.14543
+LivPos_C0551,615,thymopentin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.11797,1.69296
+LivPos_C0756,486,PS(40:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.11721,1.40615
+LivPos_C1369,399,PC(36:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.11631,1.86422
+LivNeg_C626,295,Hydroperoxylinoleic acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,1.11466,1.46795
+LivPos_C0482,805,PE(40:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.1144,1.73737
+LivPos_C0698,179,PA(41:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,1.11383,0.993387
+LivNeg_C745,7,PE(42:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.10717,1.14482
+LivNeg_C682,831,PI(38:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.10284,1.26847
+LivNeg_C372,946,Canrenone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid lactones,1.09618,1.17293
+LivNeg_C001,191,LysoPE(16:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.09098,1.87473
+LivNeg_C538,388,PI(38:4)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.0905,1.50022
+LivNeg_C162,709,PC(40:9),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.08979,1.07199
+LivPos_C0765,802,DG(36:1)_1,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.08728,1.97846
+LivGC_C138,246,"Glutamine, DL-",Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.08545,1.64579
+LivNeg_C200,746,Mniopetal A,Organoheterocyclic compounds,Naphthofurans,NA,1.08295,0.900878
+LivPos_C0449,763,PE(40:6)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.08161,0.830078
+LivNeg_C576,129,Chondramide A,rganic acids and derivatives,Peptidomimetics,Hybrid peptides,1.07989,1.7784
+LivNeg_C503,344,Phenethyl rutinoside,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosyl compounds,1.07736,1.21049
+LivPos_C0496,559,Cer(36:1)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.07488,1.83663
+LivNeg_C681,1191,PI(38:4)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.07484,1.27811
+LivPos_C0183,103,DG(43:1),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.07151,1.9023
+LivNeg_C440,391,PG(40:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,1.06576,1.90138
+LivNeg_C125,772,PI(40:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.06531,1.00573
+LivPos_C0613,482,DG(30:0),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.06382,1.68402
+LivPos_C0021,95,sn-glucero-3-phosphoethanolamine_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.06332,2.03441
+LivPos_C1009,996,Oleoyl-2-hydroxy-sn-glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.06092,1.61763
+LivNeg_C022,814,PE(38:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.05806,1.53711
+LivPos_C0755,1062,Arachidonoyl amide,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,1.05675,1.62294
+LivPos_C0378,181,PE(40:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.05521,1.06176
+LivPos_C0582,1123,Amino-tridecanoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.05116,1.25552
+LivNeg_C130,1014,Isoacitretin,Lipids and lipid-like molecules,Prenol lipids,Retinoids,1.04934,1.6401
+LivPos_C1006,750,Cer(42:0)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.04846,1.57405
+LivNeg_C007,89,PE(38:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.0435,1.37373
+LivNeg_C174,870,PC(15:1),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.04237,1.42473
+LivPos_C0226,504,CL(76:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,1.04133,1.98767
+LivNeg_C225,1112,PS(38:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.03923,1.45556
+LivPos_C1152,1065,PE(40:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.03866,1.48989
+LivPos_C0098,921,Dipalmitin_2,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,1.03784,1.62396
+LivPos_C0457,197,PC(38:5)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.03628,1.78288
+LivPos_C0134,929,PC(35:0)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,1.03537,1.88394
+LivGC_C244,281,"Glutaric acid, 2-hydroxy-",Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",1.03212,1.64531
+LivNeg_C684,467,PI(38:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.03169,1.22047
+LivPos_C0568,1176,PE(40:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.02882,1.15962
+LivNeg_C408,471,Taurolithocholic acid 3-sulfate,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.02852,1.85565
+LivPos_C0697,328,Tetracosanoic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.02839,1.63426
+LivPos_C0283,419,PC(37:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.02819,1.35002
+LivPos_C0470,1004,Calactin,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid lactones,1.0267,1.67292
+LivNeg_C418,876,7-Ketodeoxycholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",1.02365,1.43381
+LivPos_C0487,1089,Cer(40:1)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.02111,1.62656
+LivPos_C0456,473,PC(34:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.02089,1.5303
+LivPos_C1071,149,PI(38:4)_8,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.01884,1.84212
+LivNeg_C107,1177,PI(38:4)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.01882,1.21559
+LivPos_C0884,78,PC(38:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.01749,2.00772
+LivPos_C0444,495,PI(42:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.01219,1.53392
+LivPos_C0679,739,PS(38:3)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1.01214,1.83854
+LivPos_C0463,359,Palmitoleyl linoleate,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,1.00957,0.993076
+LivPos_C0588,1250,PC(18:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.00909,1.86416
+LivNeg_C515,777,LysoPE(22:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1.00873,2.06686
+LivNeg_C039,376,Docosahexaenoic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,1.00669,1.80423
+LivNeg_C076,1249,Cer(38:1)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,1.00625,2.20163
+LivPos_C0760,978,PI(34:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1.00528,1.60887
+LivNeg_C024,411,PC(38:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1.00366,0.984138
+LivPos_C0655,293,Ubiquinol_5,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,1.00203,1.12841
+LivNeg_C105,919,LysoPC(18:0)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.999341,2.03153
+LivGC_C053,627,Glycerol-3-phosphate_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.99733,1.11313
+LivNeg_C821,82,Nonadeca-10(Z)-enoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.997133,1.86718
+LivPos_C0494,433,PC(40:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.992764,1.23436
+LivPos_C1430,584,LysoPE(18:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.992123,1.62765
+LivNeg_C533,1198,PS(22:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.991151,1.10402
+LivNeg_C664,379,PI(38:4)_7,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.990889,1.26793
+LivNeg_C702,190,PG(42:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.990377,2.00574
+LivPos_C1305,120,GlcCer(41:2)_2,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.98893,1.62419
+LivNeg_C100,530,Hydroquinidine_1,Alkaloids and derivatives,Cinchona alkaloids,,0.98297,1.66757
+LivNeg_C069,128,LysoPC(20:3)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.98297,0.805866
+LivNeg_C400,453,4-Isopropylbenzoic acid,Lipids and lipid-like molecules,Prenol lipids,Prenol lipids,0.981848,2.31817
+LivNeg_C402,522,LysoPC(16:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.979786,1.73234
+LivNeg_C027,680,PE(38:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.978228,0.88557
+LivNeg_C390,580,Eicosatrienoic acid_3,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.975634,1.28248
+LivNeg_C271,39,PS(37:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.971731,0.969041
+LivNeg_C228,742,PI(40:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.968399,1.45979
+LivNeg_C335,928,norsesterterpene,,,,0.965448,1.3446
+LivPos_C0332,796,CE(18:1),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.964052,1.5151
+LivPos_C0834,1246,PC(34:2)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.963703,0.621291
+LivNeg_C805,1149,Dihydroxy-cholanoic acid_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.960412,2.05937
+LivPos_C0389,155,DG(36:1)_2,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.960298,1.13766
+LivPos_C0251,83,Glc-Stigmasterol(22:0),Lipids and lipid-like molecules,Steroids and steroid derivatives,Stigmastanes and derivatives,0.959121,1.2084
+LivNeg_C692,441,PS(39:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.958326,1.42122
+LivPos_C0773,204,GlcCer(42:1)_2,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.957798,1.52552
+LivNeg_C708,1146,PI(38:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.956944,1.11918
+LivGC_C003,725,Maltotriose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.95671,1.53972
+LivNeg_C077,1130,PE(36:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.955269,1.20996
+LivPos_C0348,1,Dipalmitoyl-sn-glycero-3-phosphoethanolamine_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.954252,1.01561
+LivNeg_C095,970,PS(42:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.953731,1.02675
+LivNeg_C635,383,Hexadecanedioic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.953186,1.41352
+LivPos_C0462,824,PC(36:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.947571,1.26333
+LivPos_C0724,160,Epostatin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.945462,1.76442
+LivNeg_C156,288,Glucosylceramide (42:2),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.942045,1.40029
+LivPos_C0628,855,DG(36:2)_1,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.941702,1.3779
+LivPos_C1021,1022,PC(13:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.940781,1.61347
+LivPos_C1050,540,Cer(16:2),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.938436,1.59529
+LivPos_C0586,839,LysoPC(20:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.937327,1.48915
+LivPos_C0838,202,PE(38:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.936456,0.914902
+LivPos_C0016,688,Cholesteryl ester_2,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.936036,1.80436
+LivPos_C0008,194,palmitoglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.935596,1.61946
+LivPos_C0075,451,DG(18:2),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.933667,1.00634
+LivNeg_C215,660,PC(34:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.932786,0.916324
+LivPos_C0706,1117,PS(34:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.931686,1.10836
+LivPos_C0967,406,PC(32:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.931448,1.30904
+LivPos_C1244,775,CE(20:3),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.930236,1.01155
+LivPos_C0155,847,PE-Cer(32:3),Organic acids and derivatives,Organic phosphoric acids and derivatives,hosphate esters,0.927583,2.13718
+LivPos_C0102,941,N-hexacosanoylsphinganine-1-phosphocholine,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.926916,1.85985
+LivNeg_C284,892,PG(36:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.926282,1.77782
+LivPos_C0885,358,GlcCer(33:2),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.925539,1.47582
+LivPos_C1222,1262,prostaglandin_4,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.924868,2.12686
+LivNeg_C675,389,PI(38:4)_9,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.92467,1.58087
+LivNeg_C683,444,PI(38:4)_10,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.921867,1.11102
+LivPos_C1701,507,Diamino-4-hydroxy-5-N-methylformamidopyrimidine_2,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,0.920557,1.12242
+LivPos_C1479,1114,N-Lignoceroylsphingosine_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.91718,1.99645
+LivPos_C1763,706,PE(34:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.916822,1.01602
+LivPos_C0495,1182,Cer(38:2),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.912167,1.26601
+LivNeg_C258,531,Eicosapentaenoic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.911668,1.61312
+LivPos_C0510,1101,2-stearoylglycerol,Lipids and lipid-like molecules,Glycerolipids,Monoradylglycerols,0.908453,1.82495
+LivPos_C0271,41,PS(20:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.907215,1.41805
+LivPos_C0166,232,glycocholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.906495,0.954633
+LivNeg_C828,206,Inosine_1,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleosides,0.90267,1.46082
+LivNeg_C685,1092,PI(38:4)_11,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.900803,1.33431
+LivPos_C0228,256,PC(42:10)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.899883,1.85514
+LivNeg_C732,808,PC(42:11)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.898781,1.81076
+LivPos_C0982,455,Eicosapentaenoyl PAF C-16,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.89755,1.8241
+LivPos_C0169,36,"PS(DiMe(11,5)/DiMe(13,5))",Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.896273,1.79076
+LivNeg_C593,277,CDP-DG(42:2),Lipids and lipid-like molecules,Glycerophospholipids,CDP-glycerols,0.894339,1.6843
+LivNeg_C447,187,PG(40:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.891326,1.58299
+LivNeg_C347,527,PS(37:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.891051,0.840079
+LivPos_C1475,1052,sn-glycero-3-phosphoserine_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.890788,1.66789
+LivPos_C0727,901,Oleoyl-arachidonyl-sn-glycerol,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.889042,1.27081
+LivNeg_C371,1170,PA(43:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.888252,1.63673
+LivNeg_C230,850,PE(44:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.88823,0.625817
+LivPos_C0562,416,PE(36:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.887528,0.927527
+LivPos_C0475,440,Citroside_1,Lipids and lipid-like molecules,Prenol lipids,Prenol lipids,0.887482,1.25176
+LivPos_C0715,586,SM(42:1)_1,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.884492,1.37544
+LivGC_C010,917,Erythrose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.882458,1.66367
+LivPos_C0196,337,PS(40:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.88242,1.61216
+LivPos_C0634,968,PC(42:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.878438,1.36668
+LivPos_C0480,562,PI(41:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.875779,1.65858
+LivPos_C1548,98,zymostenol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,0.873659,1.31778
+LivPos_C0878,161,PC(29:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.873165,1.00832
+LivPos_C0129,949,PE(38:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.872954,1.39176
+LivPos_C0735,251,Ladderane-octanyl-glycerol,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.87275,1.0239
+LivPos_C0527,58,GlcCer(44:1)_1,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.871231,1.5614
+LivPos_C0580,979,PC(36:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.869152,0.75498
+LivPos_C0337,787,PC(40:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.868642,1.11554
+LivPos_C0856,1054,LysoPC(18:0)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.867219,1.35909
+LivPos_C0465,487,alpha-aminobutyric acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.866994,1.73381
+LivNeg_C047,249,LysoPE(18:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.863702,2.05831
+LivPos_C0379,195,PC(19:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.863624,1.07948
+LivNeg_C194,717,indole alkaloid,Alkaloids and derivatives,Vinca alkaloids,NA,0.863216,1.05437
+LivPos_C0554,702,D-Glucopyranosyl-O-palmitoylglycerol,Lipids and lipid-like molecules,Glycerolipids,Glycosylglycerols,0.860907,1.63434
+LivNeg_C153,756,PG(44:12),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.860859,1.67809
+LivPos_C0857,592,LysoPC(20:3)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.860766,1.45985
+LivNeg_C312,1075,PE(44:11),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.86073,1.39751
+LivNeg_C119,418,LysoPE(22:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.860263,2.0708
+LivNeg_C317,653,MG(18:3)_2,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.85774,1.97155
+LivPos_C0806,273,"Rescinnamidine;2',3'-Dihydrorescinnamine__2",Alkaloids and derivatives,Yohimbine alkaloids,NA,0.853558,1.62389
+LivNeg_C494,237,PS(41:7)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.851821,1.17348
+LivPos_C0011,726,N-acetylneuraminyl-Galactosylceramide,Benzenoids,Indanes,Indanones,0.850948,1.82942
+LivGC_C035,1072,Hydroxylamine,Homogeneous non-metal compounds,Homogeneous other non-metal compounds,NA,0.849971,1.99253
+LivPos_C0752,889,DG(34:2),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.849856,2.07635
+LivGC_C091,1271,Phosphoric acid _2,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,0.849161,1.04831
+LivPos_C0318,97,Octadecanedioic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.848807,1.71906
+LivNeg_C555,271,PS(41:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.847368,1.94823
+LivPos_C0796,650,sn-glycero-3-phosphoserine_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.847102,1.70476
+LivPos_C0006,1188,Retinal__2,Lipids and lipid-like molecules,Prenol lipids,Retinoids,0.847081,1.61229
+LivPos_C0813,1179,Carbaprostacyclin-biotinamide,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.846812,1.73209
+LivPos_C0313,361,PC(34:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.846077,1.01836
+LivPos_C0695,1050,PC(38:6)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.844929,1.16849
+LivNeg_C546,935,Hydroquinidine_2,Alkaloids and derivatives,Cinchona alkaloids,NA,0.843377,1.03784
+LivNeg_C285,1253,PS(42:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.842579,1.64633
+LivGC_C030,1143,Ethanolamine,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,0.840983,1.76941
+LivNeg_C019,443,phosphatidylserine(18:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.840432,1.84542
+LivNeg_C369,356,Dodecylbenzenesulfonic acid_1,Benzenoids,Benzene and substituted derivatives,Benzenesulfonic acids and derivatives,0.84023,1.38971
+LivNeg_C674,1187,PI(38:4)_12,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.838855,1.13418
+LivPos_C0223,139,Cholesteryl ester_3,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.838221,1.60495
+LivNeg_C311,313,PE(32:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.837259,0.393616
+LivNeg_C023,1077,LysoPC(18:2)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.836732,1.48647
+LivNeg_C137,1070,Retinal__1,Lipids and lipid-like molecules,Prenol lipids,Retinoids,0.835468,1.74989
+LivNeg_C426,848,PS(37:1)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.835001,0.792017
+LivNeg_C562,803,15-Methylhexadecasphinganine_1,Organic nitrogen compounds,Organonitrogen compounds,Amines,0.834368,1.91458
+LivNeg_C379,336,PE(40:6)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.834079,0.772704
+LivPos_C1008,142,LysoPE(24:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.833002,1.25184
+LivNeg_C046,196,LysoPC(22:6),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.83237,2.03201
+LivPos_C0895,565,D-galactosyl-N-tetracosanoylsphinganine_2,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.83091,2.31792
+LivPos_C0559,818,PC(36:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.829344,1.16192
+LivPos_C0193,56,PE(36:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.828964,0.528331
+LivNeg_C621,933,PI(20:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.825359,1.34258
+LivNeg_C459,976,Batzelladine B,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,0.825293,1.08733
+LivNeg_C274,1085,PS(37:0)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.824996,0.504777
+LivPos_C0388,699,CE(11:1),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.818512,0.69619
+LivPos_C1175,114,PS(36:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.815795,1.17604
+LivNeg_C181,264,PS(43:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.813933,0.799681
+LivPos_C0501,318,DG(40:7)_1,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.813399,1.06994
+LivPos_C0744,289,DG(38:6),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.812354,1.88611
+LivPos_C0014,30,ursodeoxycholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.811125,1.66915
+LivPos_C0567,61,N-nonadecanoyl-4-hydroxy-15-methylhexadecasphinganine-1-phosphocholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,0.810791,1.21085
+LivPos_C0303,764,Dihydrorescinnamine,Alkaloids and derivatives,Yohimbine alkaloids,NA,0.810353,0.597064
+LivNeg_C479,1200,Eicosatrienoic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.810312,1.03339
+LivNeg_C263,1016,terpenoid,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,0.809854,1.54271
+LivPos_C0168,1033,PE(36:2)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.808016,0.400061
+LivNeg_C293,807,N-Stearoylsphingosine,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.806149,2.00971
+LivPos_C0177,454,DG(34:1),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.805349,0.996054
+LivGC_C024,576,Galactose_1,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.803524,1.79478
+LivPos_C0861,513,N-(decanoyl)ethanolamine,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,0.80199,1.29504
+LivPos_C0082,1155,PC(40:6)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.799425,0.674044
+LivGC_C019,1028,Threitol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.798723,1.89816
+LivPos_C0804,1240,Campesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Ergostane steroids,0.798105,0.686975
+LivPos_C1181,1261,CL(76:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,0.797171,1.37289
+LivNeg_C042,25,PC(36:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.796543,1.68041
+LivPos_C1535,126,Campesteryl elaidate,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.794667,0.417411
+LivPos_C0473,365,3-(10-Heptadecenyl)phenol,Benzenoids,Phenols,1-hydroxy-4-unsubstituted benzenoids,0.79465,2.17092
+LivNeg_C589,368,PC(30:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.793955,0.721266
+LivNeg_C345,858,PS(37:0)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.793563,1.03864
+LivPos_C0382,987,PC(16:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.79329,0.969816
+LivPos_C0267,1025,PC(38:6)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.792709,0.669319
+LivPos_C0233,146,Dioleoyl-sn-glycerol,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.792031,1.75248
+LivNeg_C449,218,PG(42:10),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.79203,2.01702
+LivPos_C0872,620,Cer(42:1)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.792025,1.4167
+LivNeg_C334,63,Dihydroxy-cholanoic acid_2,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.791791,0.895912
+LivPos_C0401,349,solanesol,Lipids and lipid-like molecules,Prenol lipids,Polyprenols,0.790069,1.73632
+LivPos_C1671,296,PA(40:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.789446,1.4867
+LivNeg_C415,676,PS(22:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.78852,1.66477
+LivNeg_C080,854,PS(39:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.78756,0.839787
+LivPos_C0184,776,solanine,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal glycosides,0.786911,1.26976
+LivPos_C0375,984,PC(31:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.786754,0.424058
+LivNeg_C005,1029,LysoPE(18:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.785971,1.79394
+LivPos_C0759,483,PS(31:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.780864,1.33202
+LivNeg_C270,111,PI(38:3)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.780753,1.12502
+LivNeg_C010,316,PS(37:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.780262,0.742648
+LivNeg_C115,35,PC(34:4)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.776295,0.45117
+LivNeg_C446,294,PI(37:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.776294,1.20686
+LivPos_C0491,258,PA(38:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.775473,1.81949
+LivPos_C1119,508,DG(38:3)_1,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.772904,0.992772
+LivNeg_C154,1018,Decaprenyl-methoxy-methyl-benzoquinone,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,0.77265,0.515047
+LivNeg_C111,908,SM(40:1),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.772258,0.8728
+LivNeg_C355,692,Cryptoporic acid E,Organic acids and derivatives,Carboxylic acids and derivatives,Hexacarboxylic acids and derivatives,0.769524,1.89159
+LivPos_C0581,398,PS(21:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.767624,1.8567
+LivNeg_C226,400,PS(44:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.76751,1.42212
+LivPos_C0986,496,Glc-Campesterol(16:3),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal glycosides,0.767283,0.757604
+LivPos_C1474,639,Cer(37:2)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.766434,1.26197
+LivPos_C0911,1046,PC(37:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.765828,1.27359
+LivPos_C1254,480,PC(40:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.765444,1.22236
+LivPos_C0612,895,N-Tetracosenoyl-4-sphingenine_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.76483,1.23973
+LivNeg_C397,799,Pimelotide B,,,,0.763652,1.61816
+LivPos_C0198,60,LysoPC(20:4)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.761497,1.49876
+LivPos_C0017,46,amylin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.759018,1.93433
+LivNeg_C377,1214,PS(42:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.758831,0.467467
+LivNeg_C012,1023,LysoPC(18:0)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.758717,0.329426
+LivPos_C1005,602,taurocholic acid_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.758238,1.78919
+LivNeg_C592,1088,PG(35:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.756114,1.95362
+LivPos_C1271,135,9-Hexadecenoylcholine,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,0.755798,2.29198
+LivPos_C0314,1266,PE(32:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.754624,1.86766
+LivGC_C455,377,Serine _2,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.753965,2.18679
+LivNeg_C423,986,PI(38:4)_13,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.751737,1.09366
+LivPos_C0116,520,N-hydroxy arachidonoyl amine,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,0.751568,1.16084
+LivPos_C1850,1096,Adenosine,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleosides,0.751044,1.39584
+LivPos_C0466,119,"5beta-Cholane-3alpha,7alpha,24-triol",Lipids and lipid-like molecules,teroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.750301,0.523584
+LivPos_C1363,1127,PE(40:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.747796,0.820289
+LivNeg_C605,1109,Hyaluronic acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.74737,1.02276
+LivNeg_C183,266,Oleic acid_3,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.745698,1.71192
+LivPos_C0596,478,"5,4'-Dimethoxyflavone",Phenylpropanoids and polyketides,Flavonoids,O-methylated flavonoids,0.743958,1.00848
+LivNeg_C244,868,Eicosapentaenoic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.743879,1.15099
+LivPos_C0030,687,PE(35:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.743087,1.2781
+LivNeg_C089,823,PS(38:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.741107,1.43534
+LivPos_C1002,952,Dioctadecanoyl-3-glycerol,Lipids and lipid-like molecules,Glycerolipids,Glycosylglycerols,0.741006,1.44207
+LivPos_C0471,364,Docosahexaenoic acid_8,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.74039,1.39375
+LivNeg_C242,551,PS(36:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.738033,0.573465
+LivNeg_C561,247,15-Methylhexadecasphinganine_2,Organic nitrogen compounds,Organonitrogen compounds,Amines,0.736839,1.86451
+LivPos_C0493,751,PC(40:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.736574,1.38206
+LivNeg_C826,1110,Hypoxanthine_1,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,0.736192,1.92349
+LivNeg_C399,798,Scutigeral,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,0.735411,0.837741
+LivNeg_C241,345,PS(37:1)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.73532,1.51957
+LivNeg_C517,708,LysoPE(16:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.732562,1.97201
+LivPos_C0985,752,PC(36:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.73187,1.6729
+LivPos_C0825,1095,PE(38:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.730135,1.54695
+LivPos_C0460,757,DG(46:3),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.729647,1.26376
+LivNeg_C775,1091,Isotetrandrine,Organoheterocyclic compounds,Isoquinolines and derivatives,Benzylisoquinolines,0.728013,1.26002
+LivPos_C1155,864,PS(37:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.725821,1.54848
+LivNeg_C068,373,Stearoylglycerophosphoinositol,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.725054,1.31532
+LivNeg_C224,42,Cer(43:1),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.715962,1.53426
+LivPos_C0020,924,PC(36:6)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.715794,0.449116
+LivPos_C0386,212,GlcCer(40:1)_2,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.714543,1.72263
+LivNeg_C158,619,MG(18:2),Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.711896,1.65709
+LivNeg_C703,1074,PG(38:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.711401,0.666903
+LivPos_C0437,999,PE(42:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.711368,1.38189
+LivPos_C0757,144,PI(35:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.710111,1.82747
+LivNeg_C079,1231,PE(38:7)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.708024,0.550585
+LivPos_C1273,122,Cer(42:2)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.707106,1.54806
+LivNeg_C587,415,PG(39:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.707096,1.15697
+LivNeg_C476,519,PI(38:4)_14,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.705038,1.20285
+LivPos_C0505,176,"4,5-(methanoxyethano)isolongifol-4-ene",Organoheterocyclic compounds,Naphthopyrans,NA,0.705015,1.92426
+LivPos_C1772,564,PE(38:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.702214,0.916611
+LivNeg_C186,1066,PE(38:7)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.699977,1.50122
+LivPos_C0133,28,"3-thiocyanatomethyl-5,5-dimethylbutyrolactone",Organoheterocyclic compounds,Lactones,Gamma butyrolactones,0.697275,1.05693
+LivPos_C0036,1220,PS(28:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.696816,1.00901
+LivPos_C1040,1273,behenyl erucate,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,0.695868,0.849505
+LivNeg_C013,535,LysoPC(18:1)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.695823,1.32141
+LivNeg_C537,608,Trihydroxy-5b-cholanoic acid_3,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.692695,1.38619
+LivNeg_C612,575,3-O-Sulfogalactosylceramide (40:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.6926,1.89648
+LivNeg_C319,427,PI(38:4)_15,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.692212,1.45248
+LivPos_C0984,656,PC(35:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.69115,1.71073
+LivPos_C0445,1103,PG(36:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.6897,1.23189
+LivPos_C1599,402,PE(38:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.687271,0.75005
+LivPos_C0274,545,PE(44:12),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.687187,1.10922
+LivNeg_C011,1076,SM(34:1)_1,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.684445,0.796966
+LivPos_C0484,829,SM(31:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.683431,0.286966
+LivPos_C1446,265,Niacinamide_1,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,0.68339,1.26331
+LivPos_C0876,410,Cohibin C,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,0.679713,1.00034
+LivNeg_C531,567,LysoPE(22:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.677877,0.866869
+LivNeg_C056,1039,PC(36:5)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.672144,0.438511
+LivPos_C0041,1238,LysoPAF(18:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.671442,1.27062
+LivPos_C0384,1208,LysoPC(18:1)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.669141,0.823513
+LivPos_C0002,587,Cholic acid_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.668357,1.27694
+LivNeg_C559,325,Sulfogalactosyl-hydroxylignoceroyl-sphingosine,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.667847,0.854028
+LivPos_C0209,436,Cer(42:0)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.666551,1.36466
+LivPos_C0492,698,Cer(41:1),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.665296,1.25432
+LivPos_C1718,622,Cer(37:2)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.664483,1.15372
+LivPos_C0311,638,PE(40:2)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.663982,0.985593
+LivPos_C0881,549,Cer(38:1)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.663745,1.51025
+LivNeg_C557,459,PE-NMe2(9D5/11D3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.663239,1.27804
+LivPos_C0170,552,PC(36:3)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.662946,0.821963
+LivPos_C1001,1248,LysoPC(16:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.66242,0.542579
+LivPos_C1775,1252,PE(42:4)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.658021,0.921193
+LivPos_C0485,998,PG(36:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.65651,1.20527
+LivPos_C1246,554,Dioctadecanoyl-sn-glycero-3-phosphoethanolamine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.655947,2.05245
+LivNeg_C600,833,PE(34:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.654946,0.543799
+LivPos_C1629,911,Hexadecyl-lyso-sn-glycero-3-phosphocholine,Lpids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.653902,1.40168
+LivNeg_C410,618,Apo-14'-zeaxanthinal_1,Lipids and lipid-like molecules,Prenol lipids,Sesterterpenoids,0.652733,0.80337
+LivPos_C0746,1275,PI(36:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.651117,1.38557
+LivGC_C097,1086,Phenylalanine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.650915,1.51323
+LivNeg_C468,286,PS(38:4)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.650361,1.62034
+LivPos_C0486,832,CE(22:5),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.650018,1.7246
+LivNeg_C519,585,Stearoyl-sn-glycero-phosphomyo-inositol_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.649759,1.70283
+LivPos_C0557,872,PC(34:4)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.649247,1.0894
+LivNeg_C365,981,PE(38:5)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.648749,0.580215
+LivPos_C0056,164,DG(38:7),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.648488,1.36288
+LivNeg_C232,428,PS(41:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.647635,1.28013
+LivPos_C0192,856,PE(40:6)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.639079,0.785074
+LivPos_C1137,1245,PS(40:6)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.639002,1.7286
+LivPos_C1194,875,LysoPC(20:4)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.638048,1.27127
+LivPos_C0731,975,PC(42:9)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.636758,2.23204
+LivNeg_C004,1048,Trihydroxy-5b-cholanoic acid_4,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.634389,1.22135
+LivNeg_C234,1105,PC(36:2)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.634324,1.77487
+LivNeg_C630,1272,Tauroursodeoxycholic acid_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.63324,1.16461
+LivPos_C0394,173,Cer(40:2)_1,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.633144,0.963593
+LivPos_C1368,466,PC(32:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.632397,1.20941
+LivPos_C0513,1012,Oleoylsolamin,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,0.630957,1.13632
+LivNeg_C381,732,syringic acid acetate_1,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,0.630542,1.72516
+LivPos_C0034,446,apelin-12,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.628163,1.30147
+LivPos_C0738,214,Octacosyl-palmitate,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,0.62735,1.06594
+LivPos_C0131,887,Tauroursodeoxycholic acid_2,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.626943,1.55363
+LivNeg_C354,74,PIP(38:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositol phosphates,0.62435,0.766636
+LivPos_C0833,287,PC(33:1),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.622858,1.39978
+LivNeg_C653,754,Trihydroxy-5b-cholanoic acid_2,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.622628,1.33381
+LivNeg_C735,674,Tetracosapentaenoic acid (24:5),Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.621828,1.71619
+LivNeg_C646,596,Palmitoyl-n-glycero-3-phosphatidylcholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.620378,1.36053
+LivPos_C0968,811,PA(40:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.619587,0.757931
+LivNeg_C299,733,Gnididilatin,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,0.61793,1.00052
+LivPos_C0032,958,taurocholic acid_2,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.617311,1.49953
+LivPos_C1384,112,PE(35:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.617005,0.376143
+LivPos_C0633,577,sn-glucero-3-phosphoethanolamine_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.616031,0.605455
+LivPos_C0981,572,GlcCer(36:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.615485,1.00677
+LivGC_C066,1031,Xanthosine,"Nucleosides, nucleotides, and analogues",Purine nucleosides,NA,0.613886,1.47773
+LivPos_C0452,828,Octadecenoyl-tetradecanoyl-glycero-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.611956,1.29672
+LivPos_C1390,992,PS(39:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.611265,1.11974
+LivPos_C1179,1063,PC(38:6)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.610338,1.6589
+LivPos_C1193,115,LysoPE(24:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.609843,0.744426
+LivPos_C0230,262,PC(34:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.608805,1.09937
+LivNeg_C361,524,PG(40:9),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.608786,1.63692
+LivPos_C1590,394,Diamino-4-hydroxy-5-N-methylformamidopyrimidine_3,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,0.607551,1.4555
+LivNeg_C104,1243,LysoPC(20:2)_1,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.60724,0.160848
+LivNeg_C424,470,PE(36:1)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.60545,0.735091
+LivPos_C0420,38,PC(38:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.605186,1.19434
+LivPos_C0836,962,PC(36:4)_5,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.604545,1.1724
+LivPos_C0810,131,GlcCer(36:2),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.604439,1.57728
+LivNeg_C003,1001,Docosahexaenoic acid_3,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.604209,0.529074
+LivNeg_C090,40,methylene bis(thiocyanate),Organosulfur compounds,Thioacetals,Dithioacetals,0.604081,1.41708
+LivNeg_C358,566,PI(36:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.603919,0.771751
+LivNeg_C083,20,Arachidonic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.603263,0.99589
+LivPos_C0112,305,Sphingosine,Organic nitrogen compounds,Organonitrogen compounds,Amines,0.603124,2.22745
+LivNeg_C795,1232,Antibiotic TAN 528A;Awamycin;TAN 528A,Benzenoids,Naphthalenes,Naphthoquinones,0.600772,1.48058
+LivPos_C0994,1078,PE(33:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.600351,1.45973
+LivPos_C0579,521,PC(34:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.597718,0.708275
+LivPos_C0476,557,Hydroxydodecanoic acid_1,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,0.596322,1.11576
+LivPos_C0481,1138,PC(38:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.595607,0.461208
+LivPos_C0074,681,Peptide_7,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.59499,0.43877
+LivNeg_C420,174,PS(37:0)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.594156,1.0924
+LivPos_C0620,363,DG(38:4),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.591822,1.26998
+LivPos_C0167,123,PC(34:1)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.591431,0.644975
+LivPos_C0392,1042,DG(44:12),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.590996,1.68831
+LivNeg_C820,960,PC(21:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.590272,1.28043
+LivPos_C0717,145,PC(18:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.5902,0.46704
+LivPos_C1358,1024,PE(42:4)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.590131,1.071
+LivGC_C397,354,Pyruvic acid,Organic acids and derivatives,Keto acids and derivatives,Alpha-keto acids and derivatives,0.589934,1.80549
+LivNeg_C639,386,Heptadecanoyl-sn-glycero-3-phosphocholine_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.5886,1.94845
+LivNeg_C329,948,Palmitoylglycerophosphoinositol,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.586438,1.38643
+LivNeg_C571,865,N-Palmitoylsphingosine,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.585927,1.35736
+LivPos_C0234,614,arginine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.585417,1.52966
+LivPos_C0172,150,Diamino-4-hydroxy-5-N-methylformamidopyrimidine_4,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,0.585339,1.57564
+LivPos_C1041,6,PE(36:0)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.582712,0.761192
+LivNeg_C544,1120,PE(36:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.582357,0.282076
+LivPos_C1156,159,PC(36:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.581546,1.38299
+LivPos_C1780,175,PC(40:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.581351,1.36247
+LivNeg_C749,842,PC(42:8),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.581303,1.38744
+LivPos_C0964,661,Dipalmitoleoyl-sn-glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.580534,1.06599
+LivGC_C014,255,Glutamic acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.580341,1.55192
+LivNeg_C800,1082,Calcimycin,Organoheterocyclic compounds,Benzoxazoles,NA,0.580029,0.673824
+LivNeg_C582,1151,octacosaoctaenoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.580028,1.63514
+LivPos_C0708,731,LysoPC(20:3)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.578728,0.587565
+LivPos_C0820,891,PC(35:4),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.574389,0.926933
+LivPos_C0185,1104,Octadecenyl-oleoyl-glycero-3-phosphoethanolamine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.573191,1.15193
+LivPos_C0454,532,Lys-Arg-Thr-Leu-Arg-Arg,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.570176,1.32925
+LivGC_C033,242,Glycerol,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.569103,1.28284
+LivNeg_C534,312,PS(22:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.567617,1.13715
+LivPos_C0047,323,phosphatidylcholine_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.56677,0.291032
+LivNeg_C433,724,PG(34:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.56598,1.3656
+LivNeg_C103,659,LysoPC(20:2)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.565093,0.745132
+LivNeg_C099,964,PE(34:1)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.564675,1.0338
+LivNeg_C475,683,PS(38:4)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.563889,1.75996
+LivPos_C1397,1213,D-galactosyl-N-palmitoylsphinganine,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.562047,1.1681
+LivNeg_C532,430,Hydroxy-Octadecanoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.561229,1.07112
+LivPos_C0310,62,Palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.557158,0.882565
+LivNeg_C213,678,PS(39:1)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.55678,0.366859
+LivPos_C0397,81,Cer(38:0),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.556357,2.0118
+LivNeg_C202,493,Arachidonoylglycerophosphoinositol_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.555458,1.0762
+LivPos_C0039,1021,nutriacholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.551596,0.818771
+LivNeg_C431,75,PI(36:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.551251,1.30965
+LivPos_C0376,604,PC(29:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.550685,2.07812
+LivPos_C0459,623,PC(36:4)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.550459,0.978635
+LivPos_C1158,1226,PC(36:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.550229,1.02593
+LivPos_C0236,525,Pentacosanoylglycine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.547237,1.26327
+LivPos_C1584,17,PE(38:0)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.547095,0.703614
+LivGC_C187,334,Valine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.545777,1.10202
+LivNeg_C267,1116,Trihydroxy-5b-cholanoic acid_5,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.545028,0.660028
+LivPos_C1404,1000,LysoPC(20:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.541175,0.861922
+LivNeg_C673,70,PS(37:1)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.540652,1.02263
+LivPos_C0593,675,Trimethylbicyclo[2.2.1]hept-1-yl)cyclohexanol,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,0.540573,2.15399
+LivNeg_C393,1204,Euphorbiaproliferin J,Organic acids and derivatives,Carboxylic acids and derivatives,Pentacarboxylic acids and derivatives,0.536175,1.59143
+LivPos_C0254,68,GlcCer(44:1)_2,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.535617,1.5417
+LivNeg_C302,299,PC(32:1)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.532835,0.512203
+LivNeg_C346,1010,PE(40:6)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.532139,0.747546
+LivPos_C0052,186,PC(34:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.532089,1.95083
+LivNeg_C148,235,PS(21:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.532026,1.70439
+LivPos_C0232,198,Dihexadecanoyl-sn-glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.531532,0.868082
+LivGC_C158,904,Tyrosine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.531144,0.686101
+LivPos_C0049,500,3-oxocholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.531017,1.80442
+LivPos_C0069,770,DG(34:4),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.526733,1.93974
+LivNeg_C093,642,Cer(40:1)_3,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.525437,1.2806
+LivPos_C0413,497,stearoyl-Cer(34:1),Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,0.524746,1.47434
+LivPos_C1588,1026,PE(42:4)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.523671,0.406548
+LivPos_C1007,80,Palmitoyl-2-glutaryl phosphatidylcholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.523572,1.76084
+LivPos_C1260,464,Dihomo-trihydroxy-prostadienoic acid,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.523017,1.51296
+LivNeg_C273,1009,PS(39:1)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.522687,0.794366
+LivPos_C0453,1175,PE(42:10),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.522107,1.16581
+LivNeg_C581,64,PS(38:4)_8,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.518093,0.849257
+LivNeg_C032,800,PC(34:1)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.517206,1.42319
+LivPos_C0373,29,PC(30:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.515713,0.954514
+LivNeg_C333,834,sesquiterpenoid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,0.514964,1.09917
+LivPos_C1851,965,Niacinamide_2,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,0.514461,1.66073
+LivPos_C1852,1006,Adenine,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,0.514096,0.690598
+LivPos_C0976,19,Glc-Stigmasterol(16:1),Lipids and lipid-like molecules,Steroids and steroid derivatives,Stigmastanes and derivatives,0.51223,0.375668
+LivNeg_C543,959,PS(39:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.510051,1.03016
+LivPos_C0095,463,sn-glucero-3-phosphoethanolamine_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.50905,1.74672
+LivPos_C0883,429,PS(41:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.50789,0.639004
+LivNeg_C035,590,prostaglandin_1,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.507629,1.28763
+LivPos_C0649,541,D-glucosyl-N-tetracosanoylsphinganine,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.507579,1.56631
+LivPos_C1203,1044,Heptadecanoyl-sn-glycero-3-phosphocholine_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.507512,0.882986
+LivPos_C0561,14,PG(35:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.50677,1.17689
+LivGC_C025,583,Urea,Organic compounds,Organic acids and derivatives,Organic carbonic acids and derivatives,0.50338,0.917279
+LivPos_C0841,468,PC(36:5)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.502099,1.01297
+LivPos_C0063,437,Docosahexaenoic acid_5,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.501654,1.47048
+LivNeg_C572,238,PS(39:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.500091,1.85891
+LivNeg_C021,224,PE(36:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.499736,1.40605
+LivPos_C0028,1060,LysoPAF(18:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.49702,0.969564
+LivPos_C1213,718,Palmitoylethanolamide,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,0.496662,0.973736
+LivNeg_C797,574,LysoPE(15:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.491106,0.785005
+LivPos_C0141,331,Octadecyl-sn-glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.490038,1.44044
+LivNeg_C615,267,PI(20:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.489865,0.926933
+LivPos_C0048,989,Octadecenoyl-glycero-3-phosphoethanolamine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.486823,1.68868
+LivNeg_C425,657,PE(40:5)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.485358,0.307552
+LivNeg_C542,167,PC(34:1)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.48495,0.684482
+LivPos_C0110,792,LysoPE(22:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.483565,0.334063
+LivNeg_C280,1235,PI(40:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.483369,0.791797
+LivPos_C0262,1223,FAHFA(34:0),Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.4824,1.156
+LivGC_C032,900,D-Cellobiose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.482383,1.1053
+LivPos_C0203,595,DG(36:6),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.481141,0.684546
+LivNeg_C038,874,PG(34:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.480757,1.45599
+LivPos_C0402,432,Cer(40:1)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.480035,0.367867
+LivPos_C0380,248,LysoPC(20:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.478955,1.71171
+LivNeg_C665,158,PS(37:0)_7,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.475916,1.25849
+LivNeg_C015,322,PE(34:1)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.475496,0.481141
+LivNeg_C248,991,PS(33:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.473255,0.619382
+LivNeg_C742,1067,epsilon-Tocopherol,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,0.472471,0.348291
+LivPos_C0739,375,Cer(20:0),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.471839,1.19524
+LivNeg_C707,121,Stearoyl-sn-glycero-phosphomyo-inositol_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.471729,0.538506
+LivPos_C0747,185,PA(36:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.471105,1.5099
+LivGC_C007,489,Galactose_2,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.4701,0.591469
+LivNeg_C117,722,benzoic acid,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,0.46819,0.566546
+LivPos_C1381,616,Ubiquinol_1,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,0.467611,0.645929
+LivPos_C1165,1122,PS(39:0)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.4672,0.484998
+LivNeg_C139,1011,Arachidonic acid_3,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.46677,1.1275
+LivGC_C046,955,Xanthine_2,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,0.465172,1.2469
+LivPos_C0331,813,"CE(9,5)",Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.464836,0.711466
+LivNeg_C301,1186,Trihexosylceramide (34:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.464683,0.798266
+LivPos_C0503,382,Icosenoylphytosphingosine,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.464326,0.924809
+LivPos_C0387,1241,PS(41:7)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.464025,1.00692
+LivPos_C1074,282,sn-glucero-3-phosphoethanolamine_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.464015,0.673814
+LivPos_C0307,177,PE(36:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.463958,1.51899
+LivNeg_C772,1154,LysoPA(18:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.462855,0.953321
+LivNeg_C483,923,Apo-14'-zeaxanthinal_2,Lipids and lipid-like molecules,Prenol lipids,Sesterterpenoids,0.460157,0.419131
+LivPos_C0073,1237,PC(38:6)_7,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.459743,0.936777
+LivPos_C0031,755,N-heptadecanoylsphingosine-1-phosphocholine,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.459579,0.496042
+LivNeg_C020,1206,reduced glutathione,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.458274,1.02302
+LivPos_C0200,804,Arachidoyl-sn-glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.456096,0.442821
+LivPos_C0584,961,PG(19:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.456017,0.690037
+LivNeg_C727,23,PE(44:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.455883,0.815387
+LivPos_C0085,780,sn-glycero-3-phosphoserine_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.455162,1.07078
+LivNeg_C164,768,PS(38:4)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.454853,1.29972
+LivPos_C1382,168,PE(38:5)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.453569,0.651945
+LivNeg_C264,1099,taurocholic acid_3,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.452341,0.904984
+LivNeg_C452,694,Octadecenoyl-eicosatetraenoyl-glucuronyl-glycerol,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,0.44976,0.60367
+LivNeg_C793,166,PS(40:6)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.448719,1.40515
+LivNeg_C197,319,Docosahexaenoic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.448311,1.34531
+LivPos_C0474,672,MG(18:3)_1,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.447038,0.755344
+LivNeg_C541,1195,S-Acetyldihydrolipoamide,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,0.44667,0.414184
+LivNeg_C650,766,Dihydroxy-cholanoic acid_3,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives",0.446144,0.464487
+LivPos_C0400,183,Eicosadiene,Hydrocarbons,Unsaturated hydrocarbons,Olefins,0.444427,1.55639
+LivNeg_C489,849,PC(38:6)_8,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.443995,1.2982
+LivNeg_C037,972,PE(38:4)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.442589,0.424286
+LivPos_C0270,378,LysoPE(20:4),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.439486,0.411456
+LivPos_C0823,518,PC(38:4)_2,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.438956,0.865902
+LivNeg_C719,1056,PE(40:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.438426,0.287483
+LivNeg_C051,199,PC(36:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.43712,0.384398
+LivPos_C0583,192,PC(16:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.43371,1.91654
+LivPos_C0734,219,Kaempferol 3-[4''-(p-coumaroylglucosyl)rhamnoside],Phenylpropanoids and polyketides,Flavonoids,Flavonoid glycosides,0.433286,1.2786
+LivPos_C0618,569,PI(38:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.432123,0.956888
+LivPos_C1347,573,PC(33:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.431743,1.05856
+LivPos_C0566,696,PS(40:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.431622,1.29618
+LivPos_C1576,26,PC(44:12)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.429802,1.562
+LivNeg_C715,654,Linoleic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.429316,1.20569
+LivPos_C0302,665,Stearic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.428611,1.00547
+LivPos_C0558,749,PE(40:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.425121,0.611182
+LivGC_C008,806,Glucose-6-phosphate,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.422116,0.646093
+LivNeg_C574,686,PE(36:1)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.421415,1.31011
+LivPos_C0258,481,Dodecylbenzenesulfonic acid_2,Benzenoids,Benzenesulfonic acids and derivatives,Benzenesulfonic acids and derivatives,0.421413,1.34868
+LivPos_C0362,761,DG(40:3)_2,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.41943,1.1589
+LivPos_C0450,1073,PE(37:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.418228,0.821448
+LivGC_C004,646,Inosine_2,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleosides,0.417938,1.64555
+LivPos_C0344,607,DG(36:2)_2,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.416795,0.751695
+LivPos_C1281,1034,Ubiquinol_2,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,0.41649,0.526035
+LivPos_C1096,938,Nonadecyl palmitoleate,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.414822,1.16416
+LivNeg_C751,893,Phytosphingosine,Organic nitrogen compounds,Organonitrogen compounds,Amines,0.413388,1.59214
+LivPos_C0819,1098,PC(40:6)_4,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.412832,0.343225
+LivNeg_C278,501,PE-NMe(11D3/13M5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.412288,0.701974
+LivNeg_C286,452,N-Lignoceroylsphingosine_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.411669,1.05846
+LivNeg_C625,205,N-Acetyl-leukotriene E4,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.406726,0.743605
+LivPos_C0086,55,MG(18:1),Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.406439,1.70502
+LivPos_C1017,1132,Docosahexaenoic acid_4,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.406203,1.99359
+LivPos_C0038,393,Glycero-3-phosphocholine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.406167,0.795183
+LivGC_C120,1225,"Alanine, beta-",Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.405754,0.70911
+LivPos_C0977,728,PC(40:5)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.405277,0.347912
+LivNeg_C463,635,syringic acid acetate_2,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,0.405138,1.59039
+LivPos_C0285,346,GalCer(42:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.403168,1.79153
+LivPos_C0042,306,sn-glycero-3-phosphoserine_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.402971,1.24593
+LivPos_C1011,1263,LysoPC(14:0),Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.400011,1.06923
+LivNeg_C031,982,PS(39:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.399407,1.02058
+LivPos_C1185,1019,Dioleoyl-sn-glycero-3-phosphoethanolamine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.396549,0.969758
+LivNeg_C824,703,PS(38:4)_7,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.396513,1.24243
+LivPos_C1408,1150,PS(21:0)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.395416,0.713129
+LivNeg_C694,910,PG(38:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.391352,0.895531
+LivNeg_C819,836,Cilastatin,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.391185,1.17779
+LivGC_C164,502,Raffinose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.390098,1.27387
+LivNeg_C006,1229,PS(37:0)_8,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.389488,0.881489
+LivPos_C1036,88,GlcCer(34:2),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.387845,1.48584
+LivNeg_C072,994,PE(38:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.385221,0.804158
+LivNeg_C540,951,Palmitic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.384492,0.959157
+LivPos_C0325,1055,5-(1-hydroxypropan-2-yl)isolongifol-4-ene,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,0.381544,1.73862
+LivNeg_C690,109,PIM1(30:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.381216,1.07297
+LivPos_C0572,794,CL(80:12),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,0.380452,0.874358
+LivPos_C0692,314,PI(42:2)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.379768,1.18169
+LivPos_C0438,1141,Lyso PI(18:0 ),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.379095,0.867154
+LivPos_C0892,347,Dihydromenaquinone-8,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,0.378426,2.03266
+LivPos_C0534,691,Dihexadecanoyl-sn-glycero-3-phosphoethanolamine,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.377446,1.03379
+LivPos_C1412,283,PC(17:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.377245,0.600395
+LivNeg_C127,93,Cer(40:2)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.376698,1.23703
+LivPos_C0604,937,PS(41:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.373748,1.8144
+LivGC_C005,50,"Glucopyranose, D-",Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.373407,1.17267
+LivPos_C0704,1158,PS(39:0)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.37209,0.921881
+LivPos_C1837,124,D-Linalool 3-glucoside,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,0.371542,0.550051
+LivNeg_C501,1171,PS(40:6)_8,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.370528,1.05412
+LivPos_C0174,568,n-Octyl B-D-Glucopyranoside,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl glycosides,0.366092,0.615332
+LivPos_C0189,881,PE(36:1)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.364266,0.509008
+LivPos_C0003,151,3-Allyl-1-cyclohexene,Hydrocarbons,Unsaturated hydrocarbons,Olefins,0.360905,1.46952
+LivNeg_C764,380,Ascorbic acid_1,Organoheterocyclic compounds,Dihydrofurans,Furanones,0.359501,0.862524
+LivNeg_C421,969,Linoleic acid_3,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.359343,1.00131
+LivNeg_C404,275,PS(22:6)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.358218,1.12035
+LivPos_C0929,280,"CE(11,3)",Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.356206,0.705396
+LivPos_C1565,390,DG(38:3)_2,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.354784,1.42568
+LivNeg_C720,899,PE(36:0)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.351001,1.05737
+LivPos_C1250,307,Hydroxyphthioceranic acid_2,Lipids and lipid-like molecules,Prenol lipids,Sesterterpenoids,0.350659,1.0337
+LivPos_C1614,651,PS(21:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.349042,0.646868
+LivPos_C0440,782,CL(72:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,0.348871,1.22251
+LivNeg_C294,985,PS(39:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.346959,0.951084
+LivPos_C0278,894,DG(37:2),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.345253,0.672715
+LivPos_C1154,423,"3-Digalloyl-4,5-di-O-galloylquinic acid",Phenylpropanoids and polyketides,Depsides and depsidones,,0.344184,1.05562
+LivNeg_C788,1128,Peptide_6,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.343682,1.0399
+LivPos_C0830,412,CL(84:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,0.342178,1.06246
+LivPos_C0640,529,PC(46:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.341553,1.43267
+LivPos_C0053,1147,PE(40:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.340695,1.11354
+LivGC_C221,1051,"Butanoic acid, 4-amino-",Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.340663,1.1334
+LivPos_C1130,707,3-O-Sulfogalactosylceramide (38:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.337574,1.16687
+LivPos_C0106,1173,PS(34:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.336527,1.27815
+LivPos_C0728,843,PA(40:3)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.335684,1.12481
+LivGC_C108,932,Ascorbic acid_2,Organoheterocyclic compounds,Dihydrofurans,Furanones,0.333448,1.30083
+LivNeg_C344,966,PI(36:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.332822,0.371517
+LivPos_C0971,421,PA(34:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.332108,1.21582
+LivPos_C0960,243,PE(37:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.331597,1.01281
+LivPos_C0684,918,prostaglandin_3,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.330651,0.772815
+LivNeg_C628,188,Rishitin,Organooxygen compounds,Alcohols and polyols,Polyols,0.330555,0.63347
+LivPos_C1403,711,LysoPC(20:5)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.330339,0.568404
+LivPos_C0147,571,SM(24:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.330179,0.490567
+LivPos_C0615,789,CE(14:1),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.329777,1.05306
+LivNeg_C375,1002,PS(40:6)_9,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.329315,0.951019
+LivNeg_C536,636,Xanthine_1,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,0.326131,1.20761
+LivGC_C114,916,Xylose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.322296,1.07394
+LivPos_C0312,136,PG(39:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.321099,0.327185
+LivPos_C0468,66,Linoleic acid_4,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.320222,1.1122
+LivPos_C0901,417,Dipalmitoyl-sn-glycero-3-phosphoethanolamine_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.315078,0.404005
+LivPos_C0966,425,PE(42:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.314209,0.754005
+LivPos_C0439,324,PA(37:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.314177,0.758786
+LivNeg_C813,1157,Octadecenoyl-glycero-phospho-glycerol_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.313396,1.52188
+LivPos_C0730,563,DG(37:0),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.312631,1.01589
+LivNeg_C629,1124,sn-glucero-3-phosphoethanolamine_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.312087,1.14617
+LivPos_C0301,812,"Glycerol 1,2-dioctacosanoate",Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.310316,0.521127
+LivGC_C136,44,Methionine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.307799,1.08025
+LivNeg_C374,385,"Rescinnamidine;2',3'-Dihydrorescinnamine__3",Alkaloids and derivatives,Yohimbine alkaloids,Alkaloids,0.305754,0.522102
+LivNeg_C078,809,PC(36:5)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.304687,0.94793
+LivNeg_C622,1036,PS(38:4)_12,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.30323,1.04152
+LivNeg_C493,1084,PI(38:4)_16,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.303089,1.06892
+LivNeg_C792,355,LysoPE(22:5)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.301892,1.29156
+LivPos_C1257,1156,PC(37:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.301585,0.981511
+LivGC_C292,820,Proline__1,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.301473,1.57868
+LivNeg_C116,1203,Tetracosahexaenoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.30138,0.735957
+LivPos_C0621,414,N-pentacosanoylsphingosine-1-phosphocholine_1,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.301241,1.28513
+LivPos_C0811,762,CL(76:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,0.298598,1.06722
+LivPos_C0250,86,DG(43:2),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.298549,0.815732
+LivPos_C0067,1265,"7,3',4'-Trimethoxyisoflavone",Phenylpropanoids and polyketides,Isoflavonoids,O-methylated isoflavonoids,0.295448,1.56159
+LivNeg_C313,228,PS(38:4)_11,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.29484,0.897627
+LivPos_C0208,1185,hydroxycholestenone,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,0.293552,0.659407
+LivNeg_C445,254,Oleic acid_5,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.293421,0.769919
+LivGC_C456,920,Galacturonic acid,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.29196,0.575321
+LivPos_C1237,298,Hydroxyphthioceranic acid_1,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.291782,1.5371
+LivPos_C0758,207,DG(41:5),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.291626,0.908969
+LivPos_C0064,332,PE(34:0)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.290784,0.401303
+LivNeg_C050,649,PI(37:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.289456,1.76769
+LivGC_C233,1058,similar to Histidine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.289267,0.997729
+LivGC_C557,230,Creatinine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.288688,0.763141
+LivPos_C0012,705,Cer(16:0),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.288424,1.35031
+LivPos_C0309,695,sn-glucero-3-phosphoethanolamine_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.281266,0.987716
+LivPos_C0447,404,PS(41:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.276577,0.669114
+LivPos_C0118,944,Dimethyl-pentadecanyl-ladderaneglycerol,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.27017,1.28404
+LivPos_C0130,261,"9-Deoxy-9-methylene-16,16-dimethyl Prostaglandin E2",Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.269252,0.991809
+LivPos_C0502,162,DG(40:7)_2,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.269027,1.14643
+LivNeg_C610,434,4-Carboxy-5-(1-Pentyl)Hexylsulfanyl-riazole,Organosulfur compounds,Thioethers,Aryl thioethers,0.268073,0.379233
+LivNeg_C688,737,3-Demethylubiquinone-9,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,0.26785,1.51494
+LivPos_C0277,664,Cer(39:2),Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.267277,0.841467
+LivNeg_C729,611,PI(34:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.267047,0.722039
+LivPos_C0089,727,CE(16:1),Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.266116,1.23118
+LivPos_C0225,605,PC(38:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.265727,0.596482
+LivGC_C105,1020,Uric acid _2,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,0.26411,1.08235
+LivPos_C0329,442,Stigmasteryl ester(16:3)_1,Lipids and lipid-like molecules,Steroids and steroid derivatives,Stigmastanes and derivatives,0.263487,0.454479
+LivPos_C1489,309,all-trans-Decaprenyl diphosphate,Lipids and lipid-like molecules,Prenol lipids,Polyprenols,0.261654,0.389658
+LivNeg_C398,701,Austinol,Organoheterocyclic compounds,Furopyrans,NA,0.259912,1.56005
+LivNeg_C527,381,3-hydroxyicosanoic Acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.259199,1.4666
+LivPos_C0594,4,"5,7alpha-Dihydro-1,4,4,7a-tetramethyl-4H-indene",Hydrocarbons,Unsaturated hydrocarbons,Branched unsaturated hydrocarbons,0.257854,1.07683
+LivPos_C0293,104,PC(42:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.25765,0.984853
+LivNeg_C106,101,Cer(42:2)_3,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.257548,0.988018
+LivPos_C0046,542,phosphatidylcholine_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.25754,0.716199
+LivPos_C0488,629,DG(40:4),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.256715,0.503908
+LivPos_C0575,925,PI(37:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.254764,1.41946
+LivPos_C0265,902,PG(37:0),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.253995,0.685469
+LivPos_C0855,338,Eicosenoic acid_2,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.253127,0.929243
+LivGC_C013,825,Adenosine-5-monophosphate,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,0.251258,0.884002
+LivPos_C0119,72,DG(40:5),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.249252,1.30297
+LivNeg_C192,936,PS(40:6)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.247873,1.27899
+LivGC_C116,127,Norleucine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.244987,1.13151
+LivPos_C0626,1032,SM(24:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.242778,0.637482
+LivPos_C0842,963,PE(41:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.241949,0.644092
+LivPos_C0610,819,SM(42:1)_2,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.241107,0.909939
+LivPos_C0573,778,Galbeta-Cer(38:1),Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,0.237652,0.51749
+LivNeg_C422,132,acetylenedicarboxylate_4,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,0.237163,1.02352
+LivPos_C0721,476,Palmitic amide,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,0.236994,1.94825
+LivNeg_C525,51,PC(42:10)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.23437,0.676256
+LivPos_C0719,667,Methyl-19-norcholesta-tetraen-3-ol,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,0.233497,1.29199
+LivNeg_C190,838,quinone isomer,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,0.233086,0.439343
+LivPos_C0837,934,PC(40:6)_3,Lipids and lipid-like molecule,Glycerophospholipid,Glycerophosphocholines,0.23118,0.491656
+LivNeg_C755,817,"PS(MonoMe(11,3)/MonoMe(13,5))",Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.228913,1.22745
+LivPos_C1378,1180,PC(36:5)_5,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.22863,0.745098
+LivNeg_C172,21,repaglinide aromatic amine,Benzenoids,Benzene and substituted derivatives,Phenylacetamides,0.227443,0.356356
+LivNeg_C586,326,PS(40:7),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.226877,1.4548
+LivNeg_C245,374,acetylenedicarboxylate_3,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,0.226586,1.14855
+LivGC_C069,860,Lyxose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.225751,0.564569
+LivNeg_C150,740,PC(34:1)_6,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.224986,0.849206
+LivNeg_C292,405,PS(43:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.221883,1.08369
+LivPos_C0188,1270,Oleic acid_4,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.219913,0.972586
+LivPos_C0342,797,Campesteryl alpha-linolenate,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,0.21406,1.66652
+LivPos_C0685,844,PC(36:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.214022,0.928508
+LivPos_C0341,882,N-(3-(hexadecanoyloxy)-heptadecanoyl)-L-ornithine,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.208467,1.31249
+LivPos_C1345,153,IPC(36:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.20771,0.548406
+LivPos_C1077,130,DG(47:0),Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,0.206581,0.754453
+LivPos_C1303,670,Glc-Sitosterol(22:0),Lipids and lipid-like molecules,Steroids and steroid derivatives,Stigmastanes and derivatives,0.205839,1.29152
+LivNeg_C378,810,PA(42:3),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,0.20447,1.3271
+LivPos_C0321,1174,C18 Lyso PAF,Lipids and lipid-like molecules,Class Glycerophospholipids,Glycerophosphocholines,0.201067,1.0641
+LivPos_C1783,1045,PE(40:4)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.199543,1.07591
+LivNeg_C088,100,cucurbitacin glycoside,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal glycosides,0.198559,0.805795
+LivPos_C0974,1118,PC(35:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.195273,0.771806
+LivNeg_C713,1236,PS(38:6),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.195102,1.02325
+LivNeg_C776,362,PS(38:4)_13,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.194681,0.898108
+LivGC_C090,510,"Pyridine, 2-hydroxy-",Organoheterocyclic compounds,Pyridines and derivatives,NA,0.193768,1.10464
+LivPos_C0451,484,PG(42:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.191596,1.07546
+LivPos_C0846,189,LysoPE(22:6)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.190776,0.815953
+LivPos_C1508,1244,Hydroferulic acid,Phenylpropanoids and polyketides,Phenylpropanoic acids,,0.190726,0.759893
+LivNeg_C193,1197,PS(40:6)_7,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.188148,1.23483
+LivPos_C0607,793,Cer(40:2)_3,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.187631,0.92029
+LivPos_C0367,239,Eicosenal,Lipids and lipid-like molecules,Fatty Acyls,Fatty aldehydes,0.185468,0.758945
+LivPos_C0059,225,SM(30:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.178787,1.13811
+LivNeg_C453,852,PE(42:7)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.178003,1.0779
+LivNeg_C416,117,pyridine N-oxide,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinium derivatives,0.17637,0.565682
+LivPos_C0132,148,Palmitic acid_3,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.174352,1.07038
+LivPos_C1016,885,Arachidonic acid_4,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.172658,0.616413
+LivNeg_C644,1139,PS(38:4)_9,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.171362,0.825608
+LivNeg_C631,1106,Hydroxy-hexadecanoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.169245,0.988697
+LivPos_C0393,747,N-palmitoyl-D-sphingosyl-1-(2-aminoethyl)phosphonate,Lipids and lipid-like molecules,Sphingolipids,Phosphonosphingolipids,0.169188,0.851842
+LivPos_C0443,846,PC(40:4)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.16757,1.18624
+LivNeg_C642,1230,LysoPC(16:0)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.164268,0.887125
+LivPos_C0335,759,SM(24:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.16278,0.656765
+LivNeg_C257,624,Arachidonoylglycerophosphoinositol_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.160516,1.38516
+LivPos_C1013,871,Octadecanamide,Organic acids and derivatives,Carboximidic acids and derivatives,Carboximidic acids,0.159979,0.918208
+LivNeg_C182,201,PI(36:5),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.159772,1.06442
+LivPos_C0383,716,SM(24:0),Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.158206,0.545001
+LivPos_C1357,1160,PE(40:0)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.157376,1.27264
+LivPos_C0327,1137,sn-glycero-3-phosphoserine_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.155593,0.875473
+LivPos_C0024,134,Kaempferol 3-(2G-xylosylrutinoside)-7-glucoside,Phenylpropanoids and polyketides,Flavonoids,Flavonoid glycosides,0.153796,1.14152
+LivNeg_C520,1071,PS(38:4)_10,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.153619,0.593508
+LivPos_C0004,397,CE(16:2),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,0.152915,1.43737
+LivNeg_C059,447,Palmitoleic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.152114,0.789358
+LivGC_C326,697,Proline__2,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.151458,1.02156
+LivPos_C0214,767,Nonadecanoic acid,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,0.148863,1.32763
+LivPos_C0683,1161,SM(34:1)_2,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.147582,0.405978
+LivPos_C0975,76,PC(42:6)_2,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.143247,0.791791
+LivNeg_C157,329,PS(40:6)_10,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.142226,1.01851
+LivPos_C0887,971,N-pentacosanoylsphingosine-1-phosphocholine_2,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.141162,0.530473
+LivNeg_C567,879,syringic acid acetate_3,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,0.14078,1.04882
+LivNeg_C812,1053,S-(PGJ2)-glutathione,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,0.139295,0.644533
+LivNeg_C700,292,PG(44:10),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,0.137168,0.395838
+LivGC_C017,107,Pyrroline-hydroxy-carboxylic-acid,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",0.131395,1.43837
+LivGC_C139,77,6-deoxy-Mannopyranose,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,0.118907,1.3878
+LivPos_C0988,578,PC(34:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,0.116118,1.04964
+LivPos_C1147,113,SM(34:1)_3,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,0.115395,1.06184
+LivPos_C0227,1038,PS(35:1),Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.113153,0.963615
+LivNeg_C778,182,"glycerol 1,2-cyclic phosphate",Organic acids and derivatives,Organic phosphoric acids and derivatives,NA,0.10988,0.702742
+LivNeg_C229,1224,PI(36:3)_3,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,0.107882,1.07575
+LivGC_C043,1140,Hypoxanthine_2,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,0.0843985,1.39251
+LivNeg_C412,544,Alpha-Linolenic acid,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,0.0842531,0.778422
+LivNeg_C305,252,PS(39:3)_4,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,0.0764638,0.515149
+LivPos_C1242,939,Cer(42:1)_2,Lipids and lipid-like molecules,Sphingolipids,Ceramides,0.0189311,1.46924
