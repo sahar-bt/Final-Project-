@@ -14,12 +14,11 @@ output:
           # arguments to sass::font_google() 
           family: JetBrains Mono
           local: false
-    orientation: rows
 ---
 Figures
 ======================================================================
 
-Column {data-width=4}
+Column {data-width=2}
 -----------------------------------------------------------------------
 ### High phenolics diet 
 
@@ -49,7 +48,8 @@ library(readr)
 
 ```
 
-
+Column {data-width=5}
+-----------------------------------------------------------------------
 ### Metabolites with higher concentration in liver
 
 ```{r, fig.width=100}
@@ -70,7 +70,8 @@ ggplotly(vip_liverOB, tooltip = "text")
 
 ```
 
-
+Column {data-width=5}
+-----------------------------------------------------------------------
 ### immune cell 
 
 ```{r}
@@ -101,6 +102,11 @@ mmunecell_plot <- immunecell %>%
   dark_theme_bw()
 
 ggplotly(mmunecell_plot)
+
+
+
+
+
 
 ```
 
