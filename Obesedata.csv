@@ -1,4 +1,4 @@
-﻿Primary ID,﻿,Metabolite,Super Class,Class,Sub_Class,VIP 1,VIP 2
+﻿Primary ID,Number,Metabolite,Super Class,Class,Sub_Class,VIP 1,VIP 2
 LivPos_C1024,888,N-hexanoyldihydroceramide,Lipids and lipid-like molecules,Sphingolipids,Ceramides,2.45617,0.887963
 LivNeg_C177,1013,PG(34:2)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,2.4503,0.923554
 LivNeg_C709,465,PG(36:3)_1,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,2.44235,0.577273
