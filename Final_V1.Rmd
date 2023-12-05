@@ -20,7 +20,7 @@ Figures
 ======================================================================
 
 
-Column 
+Column {data-width=150}
 -----------------------------------------------------------------------
 ### High phenolics diet 
 
@@ -80,11 +80,14 @@ ggplotly(vip_liverOB, tooltip = "text")
 
 ```
 
-About
+High Phenolics diet 
 ======================================================================  
 
 Column {data-width=300} 
 -----------------------------------------------------------------------
+These data have been collected as a part of pre-clinical study on 
+high phenolics diet and their effect on cardiometabolic health. The obesedata.csv 
+file include the VIP score of the metabolites in the liver. 
 
 
 
