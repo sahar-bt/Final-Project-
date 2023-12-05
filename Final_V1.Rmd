@@ -80,14 +80,48 @@ ggplotly(vip_liverOB, tooltip = "text")
 
 ```
 
+
+Column {data-width=425}
+-----------------------------------------------------------------------
+### immune cell 
+
+
+
+```{r}
+immunecell <- read.csv("ObeseImmune.csv")
+
+# adding column name to the first and second column 
+colnames(immunecell)[1:2] <- c("Genotype", "Diet")
+
+# making the data longer
+immunecell <- immunecell %>% 
+  pivot_longer (cols= (MCP.1:P.selectin),
+                            names_to = "immune_cell", 
+                            values_to = "Aboundance")
+
+
+
+immunecell_plot <- immunecell %>% 
+  #mutate(Region = Region %>% fct_infreq()) %>% 
+  ggplot(aes(x = VEGF)) +
+  geom_bar(aes(fill = Type), alpha = 0.9) +
+  dark_theme_gray(base_family = "Fira Sans Condensed Light", base_size = 14) +
+  theme(axis.text.x = element_text(face = "bold", angle = 60, hjust = 1)) +
+  labs(x = element_blank(), y = "Number of Volcanoes", fill = "Volcano Type") + 
+  scale_fill_viridis_d() 
+```
+
+
+
 High Phenolics diet 
 ======================================================================  
 
 Column {data-width=300} 
 -----------------------------------------------------------------------
 These data have been collected as a part of pre-clinical study on 
-high phenolics diet and their effect on cardiometabolic health. The obesedata.csv 
-file include the VIP score of the metabolites in the liver. 
+high phenolics diet and their effect on cardiometabolic health. 
+The obesedata.csv file include the VIP score of the metabolites in the liver.  
+
 
 
 
