@@ -22,8 +22,7 @@ Column {data-width=2}
 -----------------------------------------------------------------------
 ### High phenolics diet 
 
-Phenolic compounds are well known for their bioactivities and their health
-outcome. in this study we fed obese and lean mice a control and a purple potato (PM) diet. after 11 weeks of diet, the liver metabolites were analyzed by using LC/MS. 
+
 Here you see top 25 metabolites with high VIP score that are driving the separation 
 of Test
 
@@ -92,21 +91,20 @@ immunecell <-immunecell  %>%
   mutate(Genotype = as.factor(Genotype),
          Diet = as.factor(Diet))
 
-mmunecell_plot <- immunecell %>% 
-  group_by(Diet) %>% 
-  group_by(Genotype) %>% 
-  ggplot(aes(x = immune_cell, y = Aboundance, fill = Genotype, color = Diet)) +
+immune_summary = immunecell %>% 
+  group_by(Genotype, Diet, immune_cell) %>% 
+  summarize(total = sum(Aboundance))
+
+immunecell_plot <- 
+  immune_summary %>%  ggplot(aes(x = immune_cell, y = total, 
+                               fill = Genotype, color = Diet)) +
   geom_bar(stat = "identity", alpha = 0.9) +
   labs(x = "Immune Cell", y = "Abundance") + 
   scale_fill_viridis_d() +
   dark_theme_bw()
 
-ggplotly(mmunecell_plot)
 
-
-
-
-
+ggplotly(immunecell_plot)
 
 ```
 
@@ -118,7 +116,10 @@ Column {data-width=4}
 -----------------------------------------------------------------------
 These data have been collected as a part of pre-clinical study on 
 high phenolics diet and their effect on cardiometabolic health. 
-The obesedata.csv file include the VIP score of the metabolites in the liver.  
+Phenolic compounds are well known for their bioactivities and their health
+outcome. in this study we fed obese and lean mice a control and a purple potato (PM) diet. after 11 weeks of diet, the liver metabolites were analyzed by using LC/MS. 
+The obesedata.csv file include the VIP score of the metabolites in the liver. 
+The 
 
 
 
