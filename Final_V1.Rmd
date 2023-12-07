@@ -21,10 +21,7 @@ Figures
 Column {data-width=2}
 -----------------------------------------------------------------------
 ### High phenolics diet 
-
-
-Here you see top 25 metabolites with high VIP score that are driving the separation 
-of Test
+Displayed are the top 25 metabolites exhibiting a high VIP score, influencing the distinction between the purple potato diet and the control diet. The bar graph illustrates the variation in two cytokines detected in the serum of obese animals under these distinct dietary conditions.
 
 
 ```{r setup, include=FALSE}
@@ -114,13 +111,16 @@ High Phenolics diet
 
 Column {data-width=4} 
 -----------------------------------------------------------------------
-These data have been collected as a part of pre-clinical study on 
-high phenolics diet and their effect on cardiometabolic health. 
-Phenolic compounds are well known for their bioactivities and their health
-outcome. in this study we fed obese and lean mice a control and a purple potato (PM) diet. after 11 weeks of diet, the liver metabolites were analyzed by using LC/MS. 
-The obesedata.csv file include the VIP score of the metabolites in the liver. 
-The 
+The data presented here originates from a preclinical research to investigate how a diet rich in phenolic compounds might influence cardiometabolic health. 
+Phenolic compounds are a diverse group of plant-based chemicals known for their potential health-promoting properties.
 
+In this research, both obese and lean mice were subjected to two diets: a standard control diet and a diet supplemented with purple potato (PM), which is likely rich in phenolic compounds. This dietary intervention was carried out over a duration of 11 weeks, allowing sufficient time to see potential effects. 
 
+we used metabolomics to investigate the metabolic change in obese animal when they 
+are subjected to two diets, using liquid chromatography-mass spectrometry (LC/MS). 
 
+The dataset labeled "obesedata.csv" contains information about the Variable Importance in Projection (VIP) scores of these liver metabolites. 
+VIP scores are indicators used in statistical modeling to identify the most influential variables in distinguishing between different groups or conditions—in this case, potentially highlighting key metabolites affected by the dietary changes.
+
+Moreover, another dataset, "ObeseImmune.csv," presents results obtained through Enzyme-Linked Immunosorbent Assay (ELISA) conducted on the serum (blood) of the obese animals. This analysis specifically focuses on inflammatory cytokines, which are signaling proteins involved in the immune system's response. Notably, these results indicate a reduction in inflammatory cytokine levels among the obese animals that were administered the purple potato diet, suggesting a potential positive effect of this dietary intervention on immune responses associated with obesity.
 
