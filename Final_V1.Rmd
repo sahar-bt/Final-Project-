@@ -4,7 +4,7 @@ output:
   flexdashboard::flex_dashboard:
     theme: 
       version: 4
-      bootswatch: sandstone
+      bootswatch: minty
       base_font: 
         google: Prompt
       heading_font:
